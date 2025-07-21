@@ -1,4 +1,6 @@
 <h1 # 💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação, Buscando estágio em TI.
+)
+💻Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação, Buscando estagio em TI.</h1>
 
 ### 🥇 Apaixonado por tecnologia e aprendizado contínuo. Atualmente desenvolvendo projetos pessoais e colaborativos, buscando crescer na área de TI e contribuir com soluções práticas. Aberto a desafios e oportunidades de estágio e trabalho freelance.
 
@@ -33,9 +35,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vitorhazael&show_icons=true&locale=en)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitorhazael&)
-💻Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação, Buscando estagio em TI.</h1>
-<h3 align="center">🥇Apaixonado por tecnologia e aprendizado contínuo. Atualmente desenvolvendo projetos pessoais e colaborativos, buscando crescer na área de TI e contribuir com soluções práticas. Aberto a desafios e oportunidades de estágio e trabalho freelance.</h3>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitorhazael&
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorhazael&label=Profile%20views&color=0e75b6&style=flat" alt="vitorhazael" /> </p>
 
