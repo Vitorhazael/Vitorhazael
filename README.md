@@ -11,7 +11,7 @@
 - **Python, java, JavaScript, inglês, excel, power bi, inteligencia artificial e learning machine.**
 
 - 🎯Me pergunte sobre:
-- **Python, java, JavaScript, inglês.**
+- **Python, java, JavaScript, inglês, excel.**
 
 - 📫 Você me acha atraves:
 - **Vitoraves99@gmail.com**
