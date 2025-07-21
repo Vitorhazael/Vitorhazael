@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/hazae52248" target="blank"><img src="https://img.shields.io/twitter/follow/hazae52248?logo=twitter&style=for-the-badge" alt="hazae52248" /></a> </p>
 
-- 🎓Atualmente estou aprendendo: **Python, java, JavaScript, inglês, excel, power bi, inteligencia artificial e learning machine.**
+- 🎓Atualmente estou aprendendo:
+- **Python, java, JavaScript, inglês, excel, power bi, inteligencia artificial e learning machine.**
 
 - 🎯Me pergunte sobre:
 - **Python, java, JavaScript, inglês.**
