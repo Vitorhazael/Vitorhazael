@@ -1,4 +1,4 @@
-<h1 align="center">💻Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação, Buscando estagio em ti.</h1>
+<h1 align="center">💻Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação, Buscando estagio em TI.</h1>
 <h3 align="center">🥇Apaixonado por tecnologia e aprendizado contínuo. Atualmente desenvolvendo projetos pessoais e colaborativos, buscando crescer na área de TI e contribuir com soluções práticas. Aberto a desafios e oportunidades de estágio e trabalho freelance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorhazael&label=Profile%20views&color=0e75b6&style=flat" alt="vitorhazael" /> </p>
