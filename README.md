@@ -1,6 +1,7 @@
 <h1 align="center">💻Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação, Buscando estagio em TI.</h1>
 <h3 align="center">🥇Apaixonado por tecnologia e aprendizado contínuo. Atualmente desenvolvendo projetos pessoais e colaborativos, buscando crescer na área de TI e contribuir com soluções práticas. Aberto a desafios e oportunidades de estágio e trabalho freelance.</h3>
 
+**LINGUAGENS DE PROGRAMAÇÃO:**
 <p><img align="center" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="vitorhazael" /></p>
 <p><img align="center" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="vitorhazael" /></p>
 <p><img align="center" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="vitorhazael" /></p>
