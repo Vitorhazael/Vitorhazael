@@ -11,6 +11,49 @@
 
 <p align="left"> <a href="https://twitter.com/hazae52248" target="blank"><img src="https://img.shields.io/twitter/follow/hazae52248?logo=twitter&style=for-the-badge" alt="hazae52248" /></a> </p>
 
+**LINHA DE ESTATISTICAS DO CANDITADO:**
+
+Curiosidade e vontade de aprender       
+
+█████████████████ 90%
+
+Aprendizado rápido       
+
+████████████████ 85%
+
+Proatividade    
+
+███████████████ 80%
+
+Trabalho em equipe          
+
+█████████████ 75%
+
+Comunicação                  
+
+████████████ 70%
+
+Organização e gestão de tempo 
+
+███████████ 65%
+
+Adaptabilidade 
+
+██████████ 60%
+
+Resolução de problemas                 
+
+█████████ 55%
+
+Conhecimentos técnicos
+
+████████ 50%
+
+Inglês (ou outro idioma)
+
+███████ 40%
+
+**CONHECIMENTOS EM ANDAMENTO:**
 - 🎓Atualmente estou aprendendo:
 - **Python, java, JavaScript, inglês, excel, power bi, inteligencia artificial e learning machine.**
 
