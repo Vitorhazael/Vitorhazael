@@ -63,7 +63,7 @@ Inglês (ou outro idioma)
 
 - 📫 Você me acha atraves:
 - **Vitoraves99@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/hazae52248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hazae52248" height="30" width="40" /></a>
@@ -77,3 +77,6 @@ Inglês (ou outro idioma)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorhazael&layout=compact&langs_count=8&hide_title=true" alt="vitorhazael" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorhazael&show_icons=true&locale=en" alt="vitorhazael" /></p>
+
+📝 Frase de Reflexão:
+**" Nossas dádivas são traidoras e nos fazem perder o bem que poderíamos conquistar, se não fosse o medo de tentar ". (SHAKESPEARE).**
