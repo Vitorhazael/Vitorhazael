@@ -79,4 +79,5 @@ Inglês (ou outro idioma)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorhazael&show_icons=true&locale=en" alt="vitorhazael" /></p>
 
 📝 Frase de Reflexão:
+
 **" Nossas dádivas são traidoras e nos fazem perder o bem que poderíamos conquistar, se não fosse o medo de tentar ". (SHAKESPEARE).**
