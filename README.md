@@ -84,5 +84,5 @@ Inglês (ou outro idioma)
 
 **" Nossas dádivas são traidoras e nos fazem perder o bem que poderíamos conquistar, se não fosse o medo de tentar ". (SHAKESPEARE).**
 
-!["Mais do que código, soluções que transformam."](https://github.com/Vitorhazael/Vitorhazael/blob/main/assets/boggller-python.gif)
+!["Mais do que código, soluções que transformam."](https://raw.githubusercontent.com/Vitorhazael/Vitorhazael/refs/heads/main/assets/hello-world-seytonic.gif)
 
